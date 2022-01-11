@@ -197,7 +197,7 @@
 
 
 
-@media only screen and (max-width:360px){
+@media only screen and (max-width:250px){
     .order-content ul li{
         width:60%;
         height:45vh;
