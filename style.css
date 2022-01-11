@@ -337,11 +337,15 @@ p{
   
   .bg1 {
     background: url('https://turntable.kagiso.io/images/Screen_Shot_2018-08-02_at_2.50.43_PM.width-800.png');
+    width:100%;
+    height:100%;
   }
   
   .bg2 {
     background: url('https://img5.goodfon.com/wallpaper/nbig/b/98/spetsii-kuritsa-ketchup-gril-sauces-chicken.jpg');
     background-color: black;
+    width:100;
+    height:100%;
   }
 
 .main{
