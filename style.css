@@ -50,9 +50,6 @@
         }
     }
 }
-
-@media only screen and (max-width:480px)
-
 .navigation{
     height: 15vh;
     width: 100%;
@@ -197,6 +194,28 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
 }
+
+
+
+@media only screen and (max-width:360px){
+    .order-content ul li{
+        width:60%;
+        height:30vh;
+    }
+    .order-content li img{
+        width:60px;
+        height:60px;
+        align-items:center;
+        display:block;
+        justify-content:center;
+    }
+    .order-content li h3{
+        font-size:2rem;
+        text-align:center;
+    }
+}
+
+
 .quote{
     margin-top: 180px;
     display: flex;
