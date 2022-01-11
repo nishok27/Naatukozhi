@@ -57,7 +57,7 @@
     margin: 15px 0 0 0;
 }
 .navigation img{
-    width: 100px;;
+    width: 100px;
     height: 80px;
 }
 .background{
@@ -117,7 +117,7 @@
 .icons-container{
     display: flex;
     justify-content: space-evenly;
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     grid-gap:1%;
     background-color: whitesmoke;
     margin-top: 50px;
@@ -127,8 +127,8 @@
 
 .icons-container .icons{
     grid-gap:1%;
-    padding:20px 60px;
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    padding:20px 40px;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 }
 
 .icons-container .icons i{
