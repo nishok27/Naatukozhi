@@ -201,6 +201,8 @@
     .order-content ul li{
         width:60%;
         height:45vh;
+        align-items:center;
+        justify-content:center;
     }
     .order-content li img{
         width:60px;
@@ -212,6 +214,10 @@
     .order-content li h3{
         font-size:2rem;
         text-align:center;
+    }
+    .order-content li button{
+        width:70%;
+        height:20%
     }
 }
 
