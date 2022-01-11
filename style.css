@@ -16,10 +16,11 @@
     }
     .container span{
         display: block;
-        text-align:left;    
+        text-align:left;
+        top:100px;
     }
     .text1{
-        
+        top:100px;
         color: white;
         font-size:5vw;
         letter-spacing:2px;
