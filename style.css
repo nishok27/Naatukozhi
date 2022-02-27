@@ -458,6 +458,79 @@
 /* 350 px media qurries end */
 
 
+/* 450 px media qurries start */
+
+
+@media only screen and (max-width:450px){
+
+    /* nav starts */
+    .container{
+        top: 60px;
+    }
+    .navigation .text1 .text2{
+        letter-spacing: 2px;
+        font-size: 3px;
+    }
+    .navigation .text2{
+        padding-top: 10px;
+        
+    }
+    .navigation img {
+        align-items: center;
+        justify-content: center;
+        margin-left: 33.5%;
+    }
+
+    /* nav ends */
+
+    /* order-content */
+    .order-content ul{
+        margin-left: 50px;
+    }
+    .order-content ul li{
+        width:60%;
+        height:45vh;
+        align-items:center;
+        justify-content:center;
+        padding-top: 20px;
+    }
+    .order-content li img{
+        width:60px;
+        height:60px;
+        align-items:center;
+        display:block;
+        justify-content:center;
+    }
+    .order-content li h3{
+        font-size:2rem;
+        text-align:center;
+    }
+    .order-content li button{
+        width:50%;
+        height:10%;
+        
+    }
+    /* order content end */
+    
+    /* quote */
+    .quote{
+        margin-top: 20px;
+    }
+    /* quote end */
+
+    /* vedio start */
+    .vedio {
+        margin-top: 20px;
+    }
+    /* vedio end */
+
+    
+}
+
+
+/* 450 px media qurries end */
+
+
 
       
 
